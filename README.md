@@ -14,10 +14,10 @@
 ## 👋 About Me
 
 ```yaml
-name:       Moksh Prajapati (Mico)
+name:       Moksh Prajapati
 education:  B.Tech CSE @ Jaypee University of Information Technology
 focus:      Backend development with the Java ecosystem
-learning:   Spring Boot + MongoDB, Microservices, MySQL
+learning:   Spring Boot + MongoDB, Microservices, MySQL, Docker, Kafka
 goal:       Software Engineering / Backend internship
 ```
 
