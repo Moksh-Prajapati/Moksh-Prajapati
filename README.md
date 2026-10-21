@@ -1,12 +1,12 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,50:1e3a8a,100:3b82f6&height=190&section=header&text=Moksh%20Prajapati&fontSize=44&fontColor=ffffff&animation=twinkling&fontAlignY=35&desc=Mico%20%E2%80%A2%20B.Tech%20CSE%20%E2%80%A2%20Backend%20%26%20Java%20Developer&descAlignY=58&descSize=16" width="100%" alt="header" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,50:1e3a8a,100:3b82f6&height=200&section=header&text=Moksh%20Prajapati&fontSize=48&fontColor=ffffff&fontAlignY=38&desc=B.Tech%20CSE%20%7C%20Java%20%26%20Backend%20Developer&descSize=18&descAlignY=60" width="100%" alt="Moksh Prajapati" />
 
 <a href="https://github.com/Moksh-Prajapati"><img src="https://img.shields.io/badge/GitHub-Moksh--Prajapati-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
 <img src="https://komarev.com/ghpvc/?username=Moksh-Prajapati&style=for-the-badge&color=3b82f6&label=PROFILE+VIEWS" alt="Profile Views" />
 <img src="https://img.shields.io/badge/Status-Open_to_Internships-22c55e?style=for-the-badge" alt="Status" />
 
-<img src="https://readme-typing-svg.demolab.com?font=Outfit&weight=600&size=20&duration=2800&pause=1000&color=3B82F6&center=true&vCenter=true&multiline=true&repeat=true&width=650&height=90&lines=%E2%98%95+Turning+caffeine+into+clean+backend+code;%F0%9F%9A%80+Building+with+Java%2C+Spring+Boot+%26+Microservices;%F0%9F%8E%AF+Looking+for+a+Software+Engineering+Internship" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=3000&pause=1000&color=3B82F6&center=true&vCenter=true&repeat=true&width=650&height=50&lines=Hi%2C+I%27m+Moksh+%28Mico%29;Building+with+Java%2C+Spring+Boot+%26+Microservices;Looking+for+a+Software+Engineering+Internship" alt="Typing SVG" />
 
 </div>
 
@@ -110,8 +110,8 @@ currently:
 <div align="center">
 
 <a href="https://github.com/Moksh-Prajapati"><img src="https://img.shields.io/badge/GitHub-Moksh--Prajapati-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
-<a href="https://www.linkedin.com/in/YOUR-LINKEDIN-ID"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-<a href="mailto:YOUR-EMAIL@example.com"><img src="https://img.shields.io/badge/Email-Say_Hi-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+<a href="https://www.linkedin.com/in/moksh-prajapati-686384367/"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+<a href="mailto:MokshPrajapati2541@gmail.com"><img src="https://img.shields.io/badge/Email-Say_Hi-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
 
 <br/><br/>
 
