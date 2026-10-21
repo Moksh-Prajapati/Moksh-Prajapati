@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,50:1e3a8a,100:3b82f6&height=200&section=header&text=Moksh%20Prajapati&fontSize=48&fontColor=ffffff&fontAlignY=38&desc=B.Tech%20CSE%20%7C%20Java%20%26%20Backend%20Developer&descSize=18&descAlignY=60" width="100%" alt="Moksh Prajapati" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:ecfeff,45:bae6fd,100:2563eb&height=190&section=header&text=Moksh%20Prajapati&fontSize=42&fontColor=0f172a&animation=fadeIn&fontAlignY=35&desc=Computer%20Science%20Student%20%7C%20Backend%20Developer%20in%20Progress&descAlignY=58&descSize=15&descColor=1e3a8a" width="100%" alt="Moksh Prajapati profile banner"/>
 
 <a href="https://github.com/Moksh-Prajapati"><img src="https://img.shields.io/badge/GitHub-Moksh--Prajapati-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
 <img src="https://komarev.com/ghpvc/?username=Moksh-Prajapati&style=for-the-badge&color=3b82f6&label=PROFILE+VIEWS" alt="Profile Views" />
