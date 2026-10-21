@@ -1,122 +1,110 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:ecfeff,45:bae6fd,100:2563eb&height=190&section=header&text=Moksh%20Prajapati&fontSize=42&fontColor=0f172a&animation=fadeIn&fontAlignY=35&desc=Computer%20Science%20Student%20%7C%20Backend%20Developer%20in%20Progress&descAlignY=58&descSize=15&descColor=1e3a8a" width="100%" alt="Moksh Prajapati profile banner"/>
+![Moksh Prajapati - Animated Profile Banner](https://raw.githubusercontent.com/Moksh-Prajapati/Moksh-Prajapati/main/dark.svg)
 
-<a href="https://github.com/Moksh-Prajapati"><img src="https://img.shields.io/badge/GitHub-Moksh--Prajapati-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
-<img src="https://komarev.com/ghpvc/?username=Moksh-Prajapati&style=for-the-badge&color=3b82f6&label=PROFILE+VIEWS" alt="Profile Views" />
-<img src="https://img.shields.io/badge/Status-Open_to_Internships-22c55e?style=for-the-badge" alt="Status" />
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=3000&pause=1000&color=3B82F6&center=true&vCenter=true&repeat=true&width=650&height=50&lines=Hi%2C+I%27m+Moksh+Prajapati;Building+with+Java%2C+Spring+Boot+%26+Microservices;Looking+for+a+Software+Engineering+Internship" alt="Typing SVG" />
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/moksh-prajapati-686384367/)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white&labelColor=0A101F)](https://github.com/Moksh-Prajapati)
+[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0A101F)](mailto:MokshPrajapati2541@gmail.com)
+![Status](https://img.shields.io/badge/Open_to-Internships-10B981?style=for-the-badge&labelColor=0A101F)
 
 </div>
 
 ---
 
-## 🧑‍💻 About Me
+## 👋 About Me
 
 ```yaml
-name: Moksh Prajapati
-goes_by: Mico
-handle: Moksh-Prajapati
-education: B.Tech in Computer Science & Engineering
-university: Jaypee University of Information Technology (JUIT)
-role: Backend-focused developer (Java ecosystem)
-
-about: >
-  I like building things that work reliably behind the scenes --
-  REST APIs, services, and data layers -- and learning how real
-  systems are put together, one project at a time.
-
-interests:
-  - Backend Development (Java, Spring Boot, Spring MVC)
-  - Microservices & API Design
-  - Databases (MongoDB, MySQL)
-  - Problem Solving & Data Structures in C++ / Java
-
-currently:
-  learning: Spring Boot with MongoDB, microservices architecture
-  exploring: MySQL and relational database design
-  seeking: Software Engineering / Backend internships
+name:       Moksh Prajapati (Mico)
+education:  B.Tech CSE @ Jaypee University of Information Technology
+focus:      Backend development with the Java ecosystem
+learning:   Spring Boot + MongoDB, Microservices, MySQL
+goal:       Software Engineering / Backend internship
 ```
+
+I enjoy building the parts of an application users never see: REST APIs, services and data layers. I'm learning by building projects, and I'm looking for an internship where I can write production code and grow as a backend engineer.
 
 ---
 
 ## 🎯 Ambitions
 
-- 🏢 Land a **software engineering internship** and learn how production systems are built and shipped
-- ☕ Grow into a strong **backend / Java engineer** with solid fundamentals in OOP, data structures and system design
-- 🧩 Get comfortable designing and scaling **microservice-based applications**
-- 🌱 Contribute to **open source** and keep building projects that solve real problems
-- 📚 Never stop learning — one new tool, concept or project at a time
+- 🏢 Land a **software engineering internship** and learn how real production systems are built and shipped
+- ☕ Grow into a strong **Java / backend engineer** with solid OOP, data structures and system design fundamentals
+- 🧩 Design and scale **microservice-based applications**
+- 🌱 Contribute to **open source** and keep shipping projects that solve real problems
 
 ---
 
-## 🛠️ Tech Arsenal
-
-### 🔤 Languages
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-
-### 🧰 Frameworks & Build Tools
-![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
-![Spring MVC](https://img.shields.io/badge/Spring_MVC-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
-![Maven](https://img.shields.io/badge/Maven-C71A36?style=for-the-badge&logo=apachemaven&logoColor=white)
-![Microservices](https://img.shields.io/badge/Microservices-0A66C2?style=for-the-badge&logo=docker&logoColor=white)
-
-### 🗄️ Databases
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-
-### ⚡ Tools
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![Android Studio](https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=androidstudio&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
-
----
-
-## 📌 Featured Projects
-
-| Project | Description | Tech |
-|:--|:--|:--|
-| [**HostelManagementSystem**](https://github.com/Moksh-Prajapati/HostelManagementSystem) | Menu-driven hostel management system built with OOP principles — user registration & secure login, single/double room booking with smart pairing, and real-time room availability tracking. | `C++` |
-| [**Android-Tic-Tac-Toe**](https://github.com/Moksh-Prajapati/Android-Tic-Tac-Toe) | Tic-Tac-Toe game built as an Android app. | `Java` `Android Studio` |
-| [**Tic-Tac-Toe**](https://github.com/Moksh-Prajapati/Tic-Tac-Toe) | Browser-based Tic-Tac-Toe game. | `JavaScript` |
-| [**PROJECT-C--**](https://github.com/Moksh-Prajapati/PROJECT-C--) | C++ project built while strengthening core programming fundamentals. | `C++` |
-| [**BootCamp**](https://github.com/Moksh-Prajapati/BootCamp) | Web-development bootcamp practice work. | `HTML` |
-
-[**View all repositories →**](https://github.com/Moksh-Prajapati?tab=repositories)
-
----
-
-## 📊 GitHub Stats
+## 📊 GitHub Analytics
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=Moksh-Prajapati&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" />
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Moksh-Prajapati&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
+[![GitHub Streak](https://streak-stats.demolab.com?user=Moksh-Prajapati&theme=dark&background=0A101F&border=22D3EE&stroke=22D3EE&ring=10B981&fire=10B981&currStreakNum=22D3EE&sideNums=A78BFA&currStreakLabel=22D3EE&sideLabels=A78BFA&dates=64748B)](https://github.com/Moksh-Prajapati)
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Moksh-Prajapati&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Moksh-Prajapati&show_icons=true&hide_rank=true&count_private=true&include_all_commits=true&bg_color=0A101F&border_color=22D3EE&title_color=22D3EE&icon_color=10B981&text_color=A78BFA)](https://github.com/Moksh-Prajapati)
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Moksh-Prajapati&layout=compact&langs_count=8&bg_color=0A101F&border_color=22D3EE&title_color=22D3EE&text_color=A78BFA)](https://github.com/Moksh-Prajapati)
 
 </div>
 
 ---
 
-## 📫 Let's Connect
+## 🐍 Contribution Graph Snake
 
 <div align="center">
 
-<a href="https://github.com/Moksh-Prajapati"><img src="https://img.shields.io/badge/GitHub-Moksh--Prajapati-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
-<a href="https://www.linkedin.com/in/moksh-prajapati-686384367/"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-<a href="mailto:MokshPrajapati2541@gmail.com"><img src="https://img.shields.io/badge/Email-Say_Hi-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+![Contribution Snake](https://raw.githubusercontent.com/Moksh-Prajapati/Moksh-Prajapati/output/github-contribution-grid-snake-dark.svg)
 
-<br/><br/>
+</div>
 
-<img src="https://img.shields.io/badge/⭐_Thanks_for_visiting!_Star_a_repo_if_you_find_it_useful-3b82f6?style=for-the-badge&labelColor=0f172a" alt="Thanks" />
+---
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,50:1e3a8a,100:3b82f6&height=120&section=footer" width="100%" alt="footer" />
+## 🛠️ Featured Projects
+
+### 🏨 HostelManagementSystem: Menu-driven Hostel Management in C++
+
+> A console application built around OOP principles for managing hostel rooms and residents.
+
+| Feature | Details |
+|---|---|
+| 🧱 **Design** | Object-oriented C++ with a clean, menu-driven flow |
+| 🔐 **Accounts** | User registration and secure login |
+| 🛏️ **Booking** | Single and double room booking with smart pairing |
+| 📡 **Availability** | Real-time room availability tracking |
+
+**Tech Stack:** ![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white) ![OOP](https://img.shields.io/badge/OOP-0A101F?style=flat-square&logoColor=white)
+
+[View repository →](https://github.com/Moksh-Prajapati/HostelManagementSystem)
+
+---
+
+### 🎮 More Projects
+
+| Project | What it is | Stack |
+|---|---|---|
+| [**Android-Tic-Tac-Toe**](https://github.com/Moksh-Prajapati/Android-Tic-Tac-Toe) | Tic-Tac-Toe game as an Android app | `Java` `Android Studio` |
+| [**Tic-Tac-Toe**](https://github.com/Moksh-Prajapati/Tic-Tac-Toe) | Browser-based Tic-Tac-Toe | `JavaScript` |
+| [**PROJECT-C--**](https://github.com/Moksh-Prajapati/PROJECT-C--) | C++ project to sharpen core fundamentals | `C++` |
+| [**BootCamp**](https://github.com/Moksh-Prajapati/BootCamp) | Web-development bootcamp practice | `HTML` |
+
+[**View all repositories →**](https://github.com/Moksh-Prajapati?tab=repositories)
+
+---
+
+## 🌱 Currently Learning
+
+| Topic | Focus |
+|---|---|
+| 🍃 **Spring Boot + MongoDB** | Building REST APIs backed by a document database |
+| 🧩 **Microservices** | Splitting applications into independent, communicating services |
+| 🐬 **MySQL** | Relational design and querying |
+
+---
+
+## 💻 Tech Stack & Toolchain
+
+<div align="center">
+
+[![Moksh's Tech Stack](https://skillicons.dev/icons?i=java,spring,mongodb,mysql,maven,cpp,js,html,css,git,github,androidstudio,vscode&theme=dark)](https://skillicons.dev)
+
+⭐ Star a repo if you find it useful. It helps a lot!
 
 </div>
