@@ -6,7 +6,7 @@
 <img src="https://komarev.com/ghpvc/?username=Moksh-Prajapati&style=for-the-badge&color=3b82f6&label=PROFILE+VIEWS" alt="Profile Views" />
 <img src="https://img.shields.io/badge/Status-Open_to_Internships-22c55e?style=for-the-badge" alt="Status" />
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=3000&pause=1000&color=3B82F6&center=true&vCenter=true&repeat=true&width=650&height=50&lines=Hi%2C+I%27m+Moksh+%28Mico%29;Building+with+Java%2C+Spring+Boot+%26+Microservices;Looking+for+a+Software+Engineering+Internship" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=3000&pause=1000&color=3B82F6&center=true&vCenter=true&repeat=true&width=650&height=50&lines=Hi%2C+I%27m+Moksh+Prajapati;Building+with+Java%2C+Spring+Boot+%26+Microservices;Looking+for+a+Software+Engineering+Internship" alt="Typing SVG" />
 
 </div>
 
